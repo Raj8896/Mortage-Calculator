@@ -1,3 +1,15 @@
+# Mortgage Calculator App
+
+This Mortgage Calculator app is built using ReactJS and serves as a handy tool for individuals looking to estimate their monthly mortgage payments. Whether you're planning to buy a new home or refinance your existing mortgage, this app can help you get a quick and accurate estimate of your monthly financial commitment.
+
+Key Features:
+
+->Input fields for home price, down payment, interest rate, loan term.
+->Real-time calculation of monthly mortgage payments, including principal and interest.
+->Additional calculation for property tax, giving a comprehensive view of your monthly expenses.
+->Clear and user-friendly design for ease of use.
+# Hosted Link: Mortgage Calculator App
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
