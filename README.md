@@ -8,7 +8,7 @@ Key Features:
 ->Real-time calculation of monthly mortgage payments, including principal and interest.
 ->Additional calculation for property tax, giving a comprehensive view of your monthly expenses.
 ->Clear and user-friendly design for ease of use.
-# Hosted Link: Mortgage Calculator App
+ Hosted Link: https://mortage-calculator-murex.vercel.app/
 
 # Getting Started with Create React App
 
